@@ -28,9 +28,3 @@ while i != random_numbers_len:
 print(result)
 
 
-
-
-
-
-
-

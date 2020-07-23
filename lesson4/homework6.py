@@ -35,3 +35,4 @@ for el in cycle(reversed(numbers_list)):
     print(numbers_repeat)
     time.sleep(0.2)
     i += 1
+

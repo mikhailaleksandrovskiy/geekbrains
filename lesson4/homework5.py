@@ -16,3 +16,4 @@ def result(a, b):
 
 print(reduce(result, list))
 
+

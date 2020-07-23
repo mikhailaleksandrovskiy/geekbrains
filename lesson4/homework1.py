@@ -17,3 +17,4 @@ print("Ваша зарплата в час", pay)
 print("Кол. часов", hours)
 print("Премия", bonus)
 print(calcul())
+

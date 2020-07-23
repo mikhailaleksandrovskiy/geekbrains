@@ -18,3 +18,4 @@ for i in numbers:
     if numbers.count(i) == 1:
         result.append(i)
 print(result)
+
